@@ -1,0 +1,470 @@
+Thu, 05 May 2016 15:41:37 [INFO] threadpool.py[line:52] Started thread pool with 0 core threads and 20 maximum threads
+Thu, 05 May 2016 15:41:37 [INFO] scheduler.py[line:287] Adding job tentatively -- it will be properly scheduled when the scheduler starts
+Thu, 05 May 2016 15:41:37 [INFO] scheduler.py[line:262] Added job "tansferFluxDetails (trigger: cron[day_of_week='mon-fri', hour='15', minute='15'], next run at: 2016-05-06 15:15:00)" to job store "default"
+Thu, 05 May 2016 15:41:37 [INFO] scheduler.py[line:574] Scheduler started
+Thu, 05 May 2016 15:41:37 [DEBUG] scheduler.py[line:579] Looking for jobs to run
+Thu, 05 May 2016 15:41:37 [DEBUG] scheduler.py[line:588] Next wakeup is due at 2016-05-06 15:15:00 (in 84802.890053 seconds)
+Thu, 05 May 2016 15:44:47 [INFO] threadpool.py[line:52] Started thread pool with 0 core threads and 20 maximum threads
+Thu, 05 May 2016 15:44:47 [INFO] scheduler.py[line:287] Adding job tentatively -- it will be properly scheduled when the scheduler starts
+Thu, 05 May 2016 15:44:47 [INFO] scheduler.py[line:262] Added job "tansferFluxDetails (trigger: cron[day_of_week='mon-fri', hour='15', minute='15'], next run at: 2016-05-06 15:15:00)" to job store "default"
+Thu, 05 May 2016 15:44:47 [INFO] scheduler.py[line:574] Scheduler started
+Thu, 05 May 2016 15:44:47 [DEBUG] scheduler.py[line:579] Looking for jobs to run
+Thu, 05 May 2016 15:44:47 [DEBUG] scheduler.py[line:588] Next wakeup is due at 2016-05-06 15:15:00 (in 84612.133081 seconds)
+Thu, 05 May 2016 22:16:16 [INFO] threadpool.py[line:52] Started thread pool with 0 core threads and 20 maximum threads
+Thu, 05 May 2016 22:16:16 [INFO] scheduler.py[line:287] Adding job tentatively -- it will be properly scheduled when the scheduler starts
+Thu, 05 May 2016 22:16:16 [INFO] scheduler.py[line:262] Added job "tansferFluxDetails (trigger: cron[day_of_week='mon-fri', hour='21', minute='50'], next run at: 2016-05-06 21:50:00)" to job store "default"
+Thu, 05 May 2016 22:16:16 [INFO] scheduler.py[line:574] Scheduler started
+Thu, 05 May 2016 22:16:16 [DEBUG] scheduler.py[line:579] Looking for jobs to run
+Thu, 05 May 2016 22:16:16 [DEBUG] scheduler.py[line:588] Next wakeup is due at 2016-05-06 21:50:00 (in 84823.456880 seconds)
+Thu, 05 May 2016 22:27:20 [INFO] threadpool.py[line:52] Started thread pool with 0 core threads and 20 maximum threads
+Thu, 05 May 2016 22:27:20 [INFO] scheduler.py[line:287] Adding job tentatively -- it will be properly scheduled when the scheduler starts
+Thu, 05 May 2016 22:27:20 [INFO] scheduler.py[line:262] Added job "tansferFluxDetails (trigger: cron[day_of_week='mon-fri', hour='21', minute='50'], next run at: 2016-05-06 21:50:00)" to job store "default"
+Thu, 05 May 2016 22:27:20 [INFO] scheduler.py[line:574] Scheduler started
+Thu, 05 May 2016 22:27:20 [DEBUG] scheduler.py[line:579] Looking for jobs to run
+Thu, 05 May 2016 22:27:20 [DEBUG] scheduler.py[line:588] Next wakeup is due at 2016-05-06 21:50:00 (in 84159.770653 seconds)
+Fri, 06 May 2016 07:15:09 [INFO] threadpool.py[line:52] Started thread pool with 0 core threads and 20 maximum threads
+Fri, 06 May 2016 07:15:09 [INFO] scheduler.py[line:287] Adding job tentatively -- it will be properly scheduled when the scheduler starts
+Fri, 06 May 2016 07:15:09 [INFO] scheduler.py[line:287] Adding job tentatively -- it will be properly scheduled when the scheduler starts
+Fri, 06 May 2016 07:15:09 [INFO] scheduler.py[line:262] Added job "sync (trigger: cron[minute='16'], next run at: 2016-05-06 07:16:00)" to job store "default"
+Fri, 06 May 2016 07:15:09 [INFO] scheduler.py[line:262] Added job "tansferFluxDetails (trigger: cron[day_of_week='mon-fri', hour='21', minute='50'], next run at: 2016-05-06 21:50:00)" to job store "default"
+Fri, 06 May 2016 07:15:09 [INFO] scheduler.py[line:574] Scheduler started
+Fri, 06 May 2016 07:15:09 [DEBUG] scheduler.py[line:579] Looking for jobs to run
+Fri, 06 May 2016 07:15:09 [DEBUG] scheduler.py[line:588] Next wakeup is due at 2016-05-06 07:16:00 (in 50.016449 seconds)
+Fri, 06 May 2016 07:16:00 [DEBUG] scheduler.py[line:579] Looking for jobs to run
+Fri, 06 May 2016 07:16:00 [DEBUG] threadpool.py[line:69] Started worker thread
+Fri, 06 May 2016 07:16:00 [DEBUG] scheduler.py[line:588] Next wakeup is due at 2016-05-06 08:16:00 (in 3599.992838 seconds)
+Fri, 06 May 2016 07:16:00 [INFO] scheduler.py[line:509] Running job "sync (trigger: cron[minute='16'], next run at: 2016-05-06 08:16:00)" (scheduled at 2016-05-06 07:16:00)
+Fri, 06 May 2016 07:16:00 [INFO] scheduler.py[line:527] Job "sync (trigger: cron[minute='16'], next run at: 2016-05-06 08:16:00)" executed successfully
+Fri, 06 May 2016 07:16:01 [DEBUG] threadpool.py[line:94] Exiting worker thread
+Fri, 06 May 2016 07:16:53 [INFO] threadpool.py[line:52] Started thread pool with 0 core threads and 20 maximum threads
+Fri, 06 May 2016 07:16:53 [INFO] scheduler.py[line:287] Adding job tentatively -- it will be properly scheduled when the scheduler starts
+Fri, 06 May 2016 07:16:53 [INFO] scheduler.py[line:287] Adding job tentatively -- it will be properly scheduled when the scheduler starts
+Fri, 06 May 2016 07:16:53 [INFO] scheduler.py[line:262] Added job "sync (trigger: cron[minute='17'], next run at: 2016-05-06 07:17:00)" to job store "default"
+Fri, 06 May 2016 07:16:53 [INFO] scheduler.py[line:262] Added job "tansferFluxDetails (trigger: cron[day_of_week='mon-fri', hour='21', minute='50'], next run at: 2016-05-06 21:50:00)" to job store "default"
+Fri, 06 May 2016 07:16:53 [INFO] scheduler.py[line:574] Scheduler started
+Fri, 06 May 2016 07:16:53 [DEBUG] scheduler.py[line:579] Looking for jobs to run
+Fri, 06 May 2016 07:16:53 [DEBUG] scheduler.py[line:588] Next wakeup is due at 2016-05-06 07:17:00 (in 6.427619 seconds)
+Fri, 06 May 2016 07:17:00 [DEBUG] scheduler.py[line:579] Looking for jobs to run
+Fri, 06 May 2016 07:17:00 [DEBUG] threadpool.py[line:69] Started worker thread
+Fri, 06 May 2016 07:17:00 [DEBUG] scheduler.py[line:588] Next wakeup is due at 2016-05-06 08:17:00 (in 3599.992532 seconds)
+Fri, 06 May 2016 07:17:00 [INFO] scheduler.py[line:509] Running job "sync (trigger: cron[minute='17'], next run at: 2016-05-06 08:17:00)" (scheduled at 2016-05-06 07:17:00)
+Fri, 06 May 2016 07:17:00 [INFO] scheduler.py[line:527] Job "sync (trigger: cron[minute='17'], next run at: 2016-05-06 08:17:00)" executed successfully
+Fri, 06 May 2016 07:17:01 [DEBUG] threadpool.py[line:94] Exiting worker thread
+Fri, 06 May 2016 07:17:44 [INFO] threadpool.py[line:52] Started thread pool with 0 core threads and 20 maximum threads
+Fri, 06 May 2016 07:17:44 [INFO] scheduler.py[line:287] Adding job tentatively -- it will be properly scheduled when the scheduler starts
+Fri, 06 May 2016 07:17:44 [INFO] scheduler.py[line:287] Adding job tentatively -- it will be properly scheduled when the scheduler starts
+Fri, 06 May 2016 07:17:44 [INFO] scheduler.py[line:262] Added job "sync (trigger: cron[minute='18'], next run at: 2016-05-06 07:18:00)" to job store "default"
+Fri, 06 May 2016 07:17:44 [INFO] scheduler.py[line:262] Added job "tansferFluxDetails (trigger: cron[day_of_week='mon-fri', hour='21', minute='50'], next run at: 2016-05-06 21:50:00)" to job store "default"
+Fri, 06 May 2016 07:17:44 [INFO] scheduler.py[line:574] Scheduler started
+Fri, 06 May 2016 07:17:44 [DEBUG] scheduler.py[line:579] Looking for jobs to run
+Fri, 06 May 2016 07:17:44 [DEBUG] scheduler.py[line:588] Next wakeup is due at 2016-05-06 07:18:00 (in 15.518381 seconds)
+Fri, 06 May 2016 07:18:00 [DEBUG] scheduler.py[line:579] Looking for jobs to run
+Fri, 06 May 2016 07:18:00 [DEBUG] threadpool.py[line:69] Started worker thread
+Fri, 06 May 2016 07:18:00 [DEBUG] scheduler.py[line:588] Next wakeup is due at 2016-05-06 08:18:00 (in 3599.992530 seconds)
+Fri, 06 May 2016 07:18:00 [INFO] scheduler.py[line:509] Running job "sync (trigger: cron[minute='18'], next run at: 2016-05-06 08:18:00)" (scheduled at 2016-05-06 07:18:00)
+Fri, 06 May 2016 07:18:00 [INFO] scheduler.py[line:527] Job "sync (trigger: cron[minute='18'], next run at: 2016-05-06 08:18:00)" executed successfully
+Fri, 06 May 2016 07:18:01 [DEBUG] threadpool.py[line:94] Exiting worker thread
+Sun, 08 May 2016 10:20:39 [DEBUG] main.py[line:56] select ID, DeviceID, Date, FOut, FIn, FAll, FUpload, 'ZGC' as storeID from FluxDetails where Date < 2016-05-07 10:20:39.054662 and FUpload=1
+Sun, 08 May 2016 10:22:26 [DEBUG] main.py[line:56] select ID, DeviceID, Date, FOut, FIn, FAll, FUpload, 'ZGC' as storeID from FluxDetails where Date < 2016-05-07 10:22:26.495203 and FUpload=1
+Sun, 08 May 2016 10:23:02 [DEBUG] main.py[line:56] select ID, DeviceID, Date, FOut, FIn, FAll, FUpload, 'ZGC' as storeID from FluxDetails where Date < 2016-05-07 10:23:02.131119 and FUpload=1
+Sun, 08 May 2016 10:33:01 [DEBUG] main.py[line:56] select ID, DeviceID, Date, FOut, FIn, FAll, FUpload, 'ZGC' as storeID from FluxDetails where Date < 2016-05-07 10:33:01.606480 and FUpload=1
+Sun, 08 May 2016 10:36:23 [DEBUG] main.py[line:56] select ID, DeviceID, Date, FOut, FIn, FAll, FUpload, 'ZGC' as storeID from FluxDetails where Date < cdate(ZGC) and FUpload=1
+Sun, 08 May 2016 10:36:43 [DEBUG] main.py[line:56] select ID, DeviceID, Date, FOut, FIn, FAll, FUpload, 'ZGC' as storeID from FluxDetails where Date < cdate('ZGC') and FUpload=1
+Sun, 08 May 2016 10:37:28 [DEBUG] main.py[line:56] select ID, DeviceID, Date, FOut, FIn, FAll, FUpload, 'ZGC' as storeID from FluxDetails where Date < cdate('ZGC') and FUpload=1
+Sun, 08 May 2016 10:37:57 [DEBUG] main.py[line:57] select ID, DeviceID, Date, FOut, FIn, FAll, FUpload, 'ZGC' as storeID from FluxDetails where Date < cdate('ZGC') and FUpload=1
+Sun, 08 May 2016 10:38:28 [DEBUG] main.py[line:58] select ID, DeviceID, Date, FOut, FIn, FAll, FUpload, 'ZGC' as storeID from FluxDetails where Date < cdate('ZGC') and FUpload=1
+Sun, 08 May 2016 10:39:03 [DEBUG] main.py[line:58] select ID, DeviceID, Date, FOut, FIn, FAll, FUpload, 'ZGC' as storeID from FluxDetails where Date < cdate('2016-05-07 10:39:02.959224') and FUpload=1
+Sun, 08 May 2016 10:39:14 [DEBUG] main.py[line:58] select ID, DeviceID, Date, FOut, FIn, FAll, FUpload, 'ZGC' as storeID from FluxDetails where Date < cdate(2016-05-07 10:39:14.630301) and FUpload=1
+Sun, 08 May 2016 10:39:43 [DEBUG] main.py[line:58] select ID, DeviceID, Date, FOut, FIn, FAll, FUpload, 'ZGC' as storeID from FluxDetails where Date < cdate('2016-05-07 10:39:43.210067') and FUpload=1
+Sun, 08 May 2016 10:40:22 [DEBUG] main.py[line:58] select ID, DeviceID, Date, FOut, FIn, FAll, FUpload, 'ZGC' as storeID from FluxDetails where Date < cdate('2016-05-07 10:40:22.623982') and FUpload=1
+Sun, 08 May 2016 10:42:16 [DEBUG] main.py[line:56] select ID, DeviceID, Date, FOut, FIn, FAll, FUpload, 'ZGC' as storeID from FluxDetails where Date < cdate('2016-05-07 10:42:16.538051') and FUpload=1
+Sun, 08 May 2016 10:50:17 [DEBUG] main.py[line:63] Tuple or struct_time argument required
+Sun, 08 May 2016 10:51:36 [DEBUG] main.py[line:63] Tuple or struct_time argument required
+Sun, 08 May 2016 10:51:49 [DEBUG] main.py[line:58] select ID, DeviceID, Date, FOut, FIn, FAll, FUpload, 'ZGC' as storeID from FluxDetails where Date < cdate('2016-05-08 10:51:49') and FUpload=1
+Sun, 08 May 2016 10:53:23 [DEBUG] main.py[line:63] Tuple or struct_time argument required
+Sun, 08 May 2016 10:53:44 [DEBUG] main.py[line:64] Tuple or struct_time argument required
+Sun, 08 May 2016 10:53:57 [DEBUG] main.py[line:65] Tuple or struct_time argument required
+Sun, 08 May 2016 11:02:38 [DEBUG] main.py[line:65] descriptor 'strftime' requires a 'datetime.date' object but received a 'str'
+Sun, 08 May 2016 11:03:55 [DEBUG] main.py[line:60] select ID, DeviceID, Date, FOut, FIn, FAll, FUpload, 'ZGC' as storeID from FluxDetails where Date < cdate('2016-05-07 11:03:55') and FUpload=1
+Sun, 08 May 2016 11:15:09 [DEBUG] main.py[line:34] select ID, DeviceID, Date, FOut, FIn, FAll, FUpload, 'ZGC' as storeID from FluxDetails where FUpload=0
+Sun, 08 May 2016 11:15:09 [INFO] main.py[line:130] no new data is found
+Sun, 08 May 2016 11:26:05 [DEBUG] main.py[line:58] select ID, DeviceID, Date, FOut, FIn, FAll, FUpload, 'ZGC' as storeID from FluxDetails where Date < cdate('2016-05-07 11:26:05') and FUpload=1
+Sun, 08 May 2016 11:50:44 [DEBUG] main.py[line:58] select ID, DeviceID, Date, FOut, FIn, FAll, FUpload, 'ZGC' as storeID from FluxDetails where Date < cdate('2016-05-07 11:50:44') and FUpload=1
+Sun, 08 May 2016 11:51:07 [DEBUG] main.py[line:58] select ID, DeviceID, Date, FOut, FIn, FAll, FUpload, 'ZGC' as storeID from FluxDetails where Date < cdate('2016-05-08 00:00:00') and FUpload=1
+Mon, 09 May 2016 19:20:42 [INFO] threadpool.py[line:52] Started thread pool with 0 core threads and 20 maximum threads
+Mon, 09 May 2016 19:20:42 [INFO] scheduler.py[line:287] Adding job tentatively -- it will be properly scheduled when the scheduler starts
+Mon, 09 May 2016 19:20:42 [INFO] scheduler.py[line:262] Added job "sync (trigger: cron[minute='10,30,50'], next run at: 2016-05-09 19:30:00)" to job store "default"
+Mon, 09 May 2016 19:20:42 [INFO] scheduler.py[line:574] Scheduler started
+Mon, 09 May 2016 19:20:42 [DEBUG] scheduler.py[line:579] Looking for jobs to run
+Mon, 09 May 2016 19:20:42 [DEBUG] scheduler.py[line:588] Next wakeup is due at 2016-05-09 19:30:00 (in 557.542054 seconds)
+Mon, 09 May 2016 19:21:05 [INFO] threadpool.py[line:111] Shutting down thread pool
+Mon, 09 May 2016 19:21:12 [INFO] threadpool.py[line:52] Started thread pool with 0 core threads and 20 maximum threads
+Mon, 09 May 2016 19:21:12 [INFO] scheduler.py[line:287] Adding job tentatively -- it will be properly scheduled when the scheduler starts
+Mon, 09 May 2016 19:21:12 [INFO] scheduler.py[line:262] Added job "sync (trigger: cron[minute='10,30,50'], next run at: 2016-05-09 19:30:00)" to job store "default"
+Mon, 09 May 2016 19:21:12 [INFO] scheduler.py[line:574] Scheduler started
+Mon, 09 May 2016 19:21:12 [DEBUG] scheduler.py[line:579] Looking for jobs to run
+Mon, 09 May 2016 19:21:12 [DEBUG] scheduler.py[line:588] Next wakeup is due at 2016-05-09 19:30:00 (in 527.480983 seconds)
+Mon, 09 May 2016 19:21:25 [INFO] threadpool.py[line:111] Shutting down thread pool
+Tue, 24 May 2016 09:20:41 [INFO] threadpool.py[line:52] Started thread pool with 0 core threads and 20 maximum threads
+Tue, 24 May 2016 09:20:41 [INFO] threadpool.py[line:111] Shutting down thread pool
+Tue, 24 May 2016 09:21:18 [INFO] threadpool.py[line:52] Started thread pool with 0 core threads and 20 maximum threads
+Tue, 24 May 2016 09:21:18 [INFO] threadpool.py[line:111] Shutting down thread pool
+Tue, 24 May 2016 09:22:05 [INFO] threadpool.py[line:52] Started thread pool with 0 core threads and 20 maximum threads
+Tue, 24 May 2016 09:22:05 [INFO] threadpool.py[line:111] Shutting down thread pool
+Tue, 24 May 2016 09:22:30 [INFO] threadpool.py[line:52] Started thread pool with 0 core threads and 20 maximum threads
+Tue, 24 May 2016 09:22:30 [INFO] scheduler.py[line:287] Adding job tentatively -- it will be properly scheduled when the scheduler starts
+Tue, 24 May 2016 09:22:30 [INFO] scheduler.py[line:287] Adding job tentatively -- it will be properly scheduled when the scheduler starts
+Tue, 24 May 2016 09:22:30 [INFO] scheduler.py[line:262] Added job "sync (trigger: interval[0:20:00], next run at: 2016-05-24 09:42:30.483405)" to job store "default"
+Tue, 24 May 2016 09:22:30 [INFO] scheduler.py[line:262] Added job "transferFluxDetails (trigger: cron[day_of_week='mon-fri', hour='21', minute='50'], next run at: 2016-05-24 21:50:00)" to job store "default"
+Tue, 24 May 2016 09:22:30 [INFO] scheduler.py[line:574] Scheduler started
+Tue, 24 May 2016 09:22:30 [DEBUG] scheduler.py[line:579] Looking for jobs to run
+Tue, 24 May 2016 09:22:30 [DEBUG] scheduler.py[line:588] Next wakeup is due at 2016-05-24 09:42:30.483405 (in 1199.997998 seconds)
+Tue, 24 May 2016 09:26:09 [INFO] threadpool.py[line:52] Started thread pool with 0 core threads and 20 maximum threads
+Tue, 24 May 2016 09:26:09 [INFO] scheduler.py[line:287] Adding job tentatively -- it will be properly scheduled when the scheduler starts
+Tue, 24 May 2016 09:26:09 [INFO] scheduler.py[line:287] Adding job tentatively -- it will be properly scheduled when the scheduler starts
+Tue, 24 May 2016 09:26:09 [INFO] scheduler.py[line:262] Added job "sync (trigger: interval[0:20:00], next run at: 2016-05-24 09:46:09.902686)" to job store "default"
+Tue, 24 May 2016 09:26:09 [INFO] scheduler.py[line:262] Added job "transferFluxDetails (trigger: cron[day_of_week='mon-fri', hour='21', minute='50'], next run at: 2016-05-24 21:50:00)" to job store "default"
+Tue, 24 May 2016 09:26:09 [INFO] scheduler.py[line:574] Scheduler started
+Tue, 24 May 2016 09:26:09 [DEBUG] scheduler.py[line:579] Looking for jobs to run
+Tue, 24 May 2016 09:26:09 [DEBUG] scheduler.py[line:588] Next wakeup is due at 2016-05-24 09:46:09.902686 (in 1199.998000 seconds)
+Sat, 28 May 2016 07:41:15 [INFO] threadpool.py[line:52] Started thread pool with 0 core threads and 20 maximum threads
+Sat, 28 May 2016 07:41:15 [INFO] scheduler.py[line:287] Adding job tentatively -- it will be properly scheduled when the scheduler starts
+Sat, 28 May 2016 07:41:15 [INFO] scheduler.py[line:287] Adding job tentatively -- it will be properly scheduled when the scheduler starts
+Sat, 28 May 2016 07:41:15 [INFO] scheduler.py[line:262] Added job "sync (trigger: interval[0:20:00], next run at: 2016-05-28 08:01:15.242175)" to job store "default"
+Sat, 28 May 2016 07:41:15 [INFO] scheduler.py[line:262] Added job "transferFluxDetailsByStatus (trigger: cron[day_of_week='mon-fri', hour='21', minute='50'], next run at: 2016-05-30 21:50:00)" to job store "default"
+Sat, 28 May 2016 07:41:15 [INFO] scheduler.py[line:574] Scheduler started
+Sat, 28 May 2016 07:41:15 [DEBUG] scheduler.py[line:579] Looking for jobs to run
+Sat, 28 May 2016 07:41:15 [DEBUG] scheduler.py[line:588] Next wakeup is due at 2016-05-28 08:01:15.242175 (in 1199.995997 seconds)
+Sat, 28 May 2016 07:41:20 [INFO] threadpool.py[line:111] Shutting down thread pool
+Sat, 28 May 2016 07:43:28 [INFO] threadpool.py[line:52] Started thread pool with 0 core threads and 20 maximum threads
+Sat, 28 May 2016 07:43:28 [INFO] scheduler.py[line:287] Adding job tentatively -- it will be properly scheduled when the scheduler starts
+Sat, 28 May 2016 07:43:28 [INFO] scheduler.py[line:287] Adding job tentatively -- it will be properly scheduled when the scheduler starts
+Sat, 28 May 2016 07:43:28 [INFO] scheduler.py[line:262] Added job "sync (trigger: interval[0:20:00], next run at: 2016-05-28 08:03:28.103642)" to job store "default"
+Sat, 28 May 2016 07:43:28 [INFO] scheduler.py[line:262] Added job "transferFluxDetailsByStatus (trigger: cron[day_of_week='mon-fri', hour='21', minute='50'], next run at: 2016-05-30 21:50:00)" to job store "default"
+Sat, 28 May 2016 07:43:28 [INFO] scheduler.py[line:574] Scheduler started
+Sat, 28 May 2016 07:43:28 [DEBUG] scheduler.py[line:579] Looking for jobs to run
+Sat, 28 May 2016 07:43:28 [DEBUG] scheduler.py[line:588] Next wakeup is due at 2016-05-28 08:03:28.103642 (in 1199.997000 seconds)
+Sat, 28 May 2016 07:54:56 [INFO] threadpool.py[line:52] Started thread pool with 0 core threads and 20 maximum threads
+Sat, 28 May 2016 07:54:56 [INFO] scheduler.py[line:287] Adding job tentatively -- it will be properly scheduled when the scheduler starts
+Sat, 28 May 2016 07:54:56 [INFO] scheduler.py[line:287] Adding job tentatively -- it will be properly scheduled when the scheduler starts
+Sat, 28 May 2016 07:54:56 [INFO] scheduler.py[line:262] Added job "sync (trigger: interval[0:20:00], next run at: 2016-05-28 08:14:56.219489)" to job store "default"
+Sat, 28 May 2016 07:54:56 [INFO] scheduler.py[line:262] Added job "transferFluxDetailsByStatus (trigger: cron[day_of_week='mon-fri', hour='21', minute='50'], next run at: 2016-05-30 21:50:00)" to job store "default"
+Sat, 28 May 2016 07:54:56 [INFO] scheduler.py[line:574] Scheduler started
+Sat, 28 May 2016 07:54:56 [DEBUG] scheduler.py[line:579] Looking for jobs to run
+Sat, 28 May 2016 07:54:56 [DEBUG] scheduler.py[line:588] Next wakeup is due at 2016-05-28 08:14:56.219489 (in 1199.998096 seconds)
+Sat, 28 May 2016 08:00:57 [INFO] threadpool.py[line:52] Started thread pool with 0 core threads and 20 maximum threads
+Sat, 28 May 2016 08:00:57 [INFO] scheduler.py[line:287] Adding job tentatively -- it will be properly scheduled when the scheduler starts
+Sat, 28 May 2016 08:00:57 [INFO] scheduler.py[line:287] Adding job tentatively -- it will be properly scheduled when the scheduler starts
+Sat, 28 May 2016 08:00:57 [INFO] scheduler.py[line:262] Added job "sync (trigger: interval[0:20:00], next run at: 2016-05-28 08:20:57.078067)" to job store "default"
+Sat, 28 May 2016 08:00:57 [INFO] scheduler.py[line:262] Added job "transferFluxDetailsByStatus (trigger: cron[day_of_week='mon-fri', hour='21', minute='50'], next run at: 2016-05-30 21:50:00)" to job store "default"
+Sat, 28 May 2016 08:00:57 [INFO] scheduler.py[line:574] Scheduler started
+Sat, 28 May 2016 08:00:57 [DEBUG] scheduler.py[line:579] Looking for jobs to run
+Sat, 28 May 2016 08:00:57 [DEBUG] scheduler.py[line:588] Next wakeup is due at 2016-05-28 08:20:57.078067 (in 1199.997999 seconds)
+Sat, 28 May 2016 08:06:33 [INFO] threadpool.py[line:52] Started thread pool with 0 core threads and 20 maximum threads
+Sat, 28 May 2016 08:06:33 [INFO] scheduler.py[line:287] Adding job tentatively -- it will be properly scheduled when the scheduler starts
+Sat, 28 May 2016 08:06:33 [INFO] scheduler.py[line:287] Adding job tentatively -- it will be properly scheduled when the scheduler starts
+Sat, 28 May 2016 08:06:33 [INFO] scheduler.py[line:262] Added job "sync (trigger: interval[0:20:00], next run at: 2016-05-28 08:26:33.638224)" to job store "default"
+Sat, 28 May 2016 08:06:33 [INFO] scheduler.py[line:262] Added job "transferFluxDetailsByStatus (trigger: cron[day_of_week='mon-fri', hour='21', minute='50'], next run at: 2016-05-30 21:50:00)" to job store "default"
+Sat, 28 May 2016 08:06:33 [INFO] scheduler.py[line:574] Scheduler started
+Sat, 28 May 2016 08:06:33 [DEBUG] scheduler.py[line:579] Looking for jobs to run
+Sat, 28 May 2016 08:06:33 [DEBUG] scheduler.py[line:588] Next wakeup is due at 2016-05-28 08:26:33.638224 (in 1199.997999 seconds)
+Sat, 28 May 2016 08:42:26 [INFO] threadpool.py[line:52] Started thread pool with 0 core threads and 20 maximum threads
+Sat, 28 May 2016 08:42:26 [INFO] scheduler.py[line:287] Adding job tentatively -- it will be properly scheduled when the scheduler starts
+Sat, 28 May 2016 08:42:26 [INFO] scheduler.py[line:287] Adding job tentatively -- it will be properly scheduled when the scheduler starts
+Sat, 28 May 2016 08:42:26 [INFO] scheduler.py[line:262] Added job "sync (trigger: interval[0:20:00], next run at: 2016-05-28 09:02:26.709989)" to job store "default"
+Sat, 28 May 2016 08:42:26 [INFO] scheduler.py[line:262] Added job "transferFluxDetailsByStatus (trigger: cron[day_of_week='mon-sun', hour='21', minute='50'], next run at: 2016-05-28 21:50:00)" to job store "default"
+Sat, 28 May 2016 08:42:26 [INFO] scheduler.py[line:574] Scheduler started
+Sat, 28 May 2016 08:42:26 [DEBUG] scheduler.py[line:579] Looking for jobs to run
+Sat, 28 May 2016 08:42:26 [DEBUG] scheduler.py[line:588] Next wakeup is due at 2016-05-28 09:02:26.709989 (in 1199.997999 seconds)
+Sat, 28 May 2016 08:47:27 [INFO] threadpool.py[line:52] Started thread pool with 0 core threads and 20 maximum threads
+Sat, 28 May 2016 08:47:27 [INFO] scheduler.py[line:287] Adding job tentatively -- it will be properly scheduled when the scheduler starts
+Sat, 28 May 2016 08:47:27 [INFO] scheduler.py[line:287] Adding job tentatively -- it will be properly scheduled when the scheduler starts
+Sat, 28 May 2016 08:47:27 [INFO] scheduler.py[line:262] Added job "sync (trigger: interval[0:02:00], next run at: 2016-05-28 08:49:27.516312)" to job store "default"
+Sat, 28 May 2016 08:47:27 [INFO] scheduler.py[line:262] Added job "transferFluxDetailsByStatus (trigger: cron[day_of_week='mon-sun', hour='21', minute='50'], next run at: 2016-05-28 21:50:00)" to job store "default"
+Sat, 28 May 2016 08:47:27 [INFO] scheduler.py[line:574] Scheduler started
+Sat, 28 May 2016 08:47:27 [DEBUG] scheduler.py[line:579] Looking for jobs to run
+Sat, 28 May 2016 08:47:27 [DEBUG] scheduler.py[line:588] Next wakeup is due at 2016-05-28 08:49:27.516312 (in 119.996999 seconds)
+Sat, 28 May 2016 08:49:27 [DEBUG] scheduler.py[line:579] Looking for jobs to run
+Sat, 28 May 2016 08:49:27 [DEBUG] threadpool.py[line:69] Started worker thread
+Sat, 28 May 2016 08:49:27 [DEBUG] scheduler.py[line:588] Next wakeup is due at 2016-05-28 08:51:27.516312 (in 119.998805 seconds)
+Sat, 28 May 2016 08:49:27 [INFO] scheduler.py[line:509] Running job "sync (trigger: interval[0:02:00], next run at: 2016-05-28 08:51:27.516312)" (scheduled at 2016-05-28 08:49:27.516312)
+Sat, 28 May 2016 08:49:27 [DEBUG] utils.py[line:29] D:\Program Files\iCounter无线客流量统计系统\DataCapture.exe error : (-2147221020, '无效的语法', None, None)
+Sat, 28 May 2016 08:49:27 [INFO] transfer.py[line:186] starting D:\Program Files\iCounter无线客流量统计系统\DataCapture.exe: TST
+Sat, 28 May 2016 08:49:27 [INFO] scheduler.py[line:527] Job "sync (trigger: interval[0:02:00], next run at: 2016-05-28 08:51:27.516312)" executed successfully
+Sat, 28 May 2016 08:49:28 [DEBUG] threadpool.py[line:94] Exiting worker thread
+Sat, 28 May 2016 08:51:27 [DEBUG] scheduler.py[line:579] Looking for jobs to run
+Sat, 28 May 2016 08:51:27 [DEBUG] threadpool.py[line:69] Started worker thread
+Sat, 28 May 2016 08:51:27 [DEBUG] scheduler.py[line:588] Next wakeup is due at 2016-05-28 08:53:27.516312 (in 119.998073 seconds)
+Sat, 28 May 2016 08:51:27 [INFO] scheduler.py[line:509] Running job "sync (trigger: interval[0:02:00], next run at: 2016-05-28 08:53:27.516312)" (scheduled at 2016-05-28 08:51:27.516312)
+Sat, 28 May 2016 08:51:27 [DEBUG] utils.py[line:29] D:\Program Files\iCounter无线客流量统计系统\DataCapture.exe error : (-2147221020, '无效的语法', None, None)
+Sat, 28 May 2016 08:51:27 [INFO] transfer.py[line:186] starting D:\Program Files\iCounter无线客流量统计系统\DataCapture.exe: TST
+Sat, 28 May 2016 08:51:27 [INFO] scheduler.py[line:527] Job "sync (trigger: interval[0:02:00], next run at: 2016-05-28 08:53:27.516312)" executed successfully
+Sat, 28 May 2016 08:51:28 [DEBUG] threadpool.py[line:94] Exiting worker thread
+Sat, 28 May 2016 08:51:36 [INFO] threadpool.py[line:52] Started thread pool with 0 core threads and 20 maximum threads
+Sat, 28 May 2016 08:51:36 [INFO] scheduler.py[line:287] Adding job tentatively -- it will be properly scheduled when the scheduler starts
+Sat, 28 May 2016 08:51:36 [INFO] scheduler.py[line:287] Adding job tentatively -- it will be properly scheduled when the scheduler starts
+Sat, 28 May 2016 08:51:36 [INFO] scheduler.py[line:262] Added job "sync (trigger: interval[0:02:00], next run at: 2016-05-28 08:53:36.384809)" to job store "default"
+Sat, 28 May 2016 08:51:36 [INFO] scheduler.py[line:262] Added job "transferFluxDetailsByStatus (trigger: cron[day_of_week='mon-sun', hour='21', minute='50'], next run at: 2016-05-28 21:50:00)" to job store "default"
+Sat, 28 May 2016 08:51:36 [INFO] scheduler.py[line:574] Scheduler started
+Sat, 28 May 2016 08:51:36 [DEBUG] scheduler.py[line:579] Looking for jobs to run
+Sat, 28 May 2016 08:51:36 [DEBUG] scheduler.py[line:588] Next wakeup is due at 2016-05-28 08:53:36.384809 (in 119.995994 seconds)
+Sat, 28 May 2016 08:53:36 [DEBUG] scheduler.py[line:579] Looking for jobs to run
+Sat, 28 May 2016 08:53:36 [DEBUG] threadpool.py[line:69] Started worker thread
+Sat, 28 May 2016 08:53:36 [DEBUG] scheduler.py[line:588] Next wakeup is due at 2016-05-28 08:55:36.384809 (in 119.999633 seconds)
+Sat, 28 May 2016 08:53:36 [INFO] scheduler.py[line:509] Running job "sync (trigger: interval[0:02:00], next run at: 2016-05-28 08:55:36.384809)" (scheduled at 2016-05-28 08:53:36.384809)
+Sat, 28 May 2016 08:53:36 [DEBUG] utils.py[line:29] DataCapture.exe error : (-2147221020, '无效的语法', None, None)
+Sat, 28 May 2016 08:53:36 [INFO] transfer.py[line:186] starting DataCapture.exe: D:\Program Files\iCounter无线客流量统计系统\DataCapture.exe
+Sat, 28 May 2016 08:53:36 [INFO] scheduler.py[line:527] Job "sync (trigger: interval[0:02:00], next run at: 2016-05-28 08:55:36.384809)" executed successfully
+Sat, 28 May 2016 08:53:37 [DEBUG] threadpool.py[line:94] Exiting worker thread
+Sat, 28 May 2016 08:56:45 [INFO] threadpool.py[line:52] Started thread pool with 0 core threads and 20 maximum threads
+Sat, 28 May 2016 08:56:45 [INFO] scheduler.py[line:287] Adding job tentatively -- it will be properly scheduled when the scheduler starts
+Sat, 28 May 2016 08:56:45 [INFO] scheduler.py[line:287] Adding job tentatively -- it will be properly scheduled when the scheduler starts
+Sat, 28 May 2016 08:56:45 [INFO] scheduler.py[line:262] Added job "sync (trigger: interval[0:02:00], next run at: 2016-05-28 08:58:45.526735)" to job store "default"
+Sat, 28 May 2016 08:56:45 [INFO] scheduler.py[line:262] Added job "transferFluxDetailsByStatus (trigger: cron[day_of_week='mon-sun', hour='21', minute='50'], next run at: 2016-05-28 21:50:00)" to job store "default"
+Sat, 28 May 2016 08:56:45 [INFO] scheduler.py[line:574] Scheduler started
+Sat, 28 May 2016 08:56:45 [DEBUG] scheduler.py[line:579] Looking for jobs to run
+Sat, 28 May 2016 08:56:45 [DEBUG] scheduler.py[line:588] Next wakeup is due at 2016-05-28 08:58:45.526735 (in 119.994997 seconds)
+Sat, 28 May 2016 08:58:45 [DEBUG] scheduler.py[line:579] Looking for jobs to run
+Sat, 28 May 2016 08:58:45 [DEBUG] threadpool.py[line:69] Started worker thread
+Sat, 28 May 2016 08:58:45 [DEBUG] scheduler.py[line:588] Next wakeup is due at 2016-05-28 09:00:45.526735 (in 119.999290 seconds)
+Sat, 28 May 2016 08:58:45 [INFO] scheduler.py[line:509] Running job "sync (trigger: interval[0:02:00], next run at: 2016-05-28 09:00:45.526735)" (scheduled at 2016-05-28 08:58:45.526735)
+Sat, 28 May 2016 08:58:45 [DEBUG] utils.py[line:29] DataCapture.exe error : (-2147221020, '无效的语法', None, None)
+Sat, 28 May 2016 08:58:45 [INFO] transfer.py[line:189] starting DataCapture.exe: D:\Program Files\iCounter无线客流量统计系统\DataCapture.exe
+Sat, 28 May 2016 08:58:46 [DEBUG] transfer.py[line:37] A Unicode connection string was supplied but the driver does not have a Unicode connect function
+Sat, 28 May 2016 08:58:46 [DEBUG] transfer.py[line:109] local variable 'conn' referenced before assignment
+Sat, 28 May 2016 08:58:46 [ERROR] scheduler.py[line:520] Job "sync (trigger: interval[0:02:00], next run at: 2016-05-28 09:00:45.526735)" raised an exception
+Traceback (most recent call last):
+  File "C:\Python34\lib\site-packages\apscheduler\scheduler.py", line 512, in _run_job
+    retval = job.func(*job.args, **job.kwargs)
+  File "D:\Source\FluxStatisticScheduler\transfer.py", line 180, in sync
+    dest, host, port, username, password, 5)
+  File "D:\Source\FluxStatisticScheduler\transfer.py", line 114, in transferFluxDetailsByStatus
+    os.remove(csv)
+FileNotFoundError: [WinError 2] 系统找不到指定的文件。: 'd:/FluxDetails.TST.20160528085845.csv'
+Sat, 28 May 2016 08:58:47 [DEBUG] threadpool.py[line:94] Exiting worker thread
+Sat, 28 May 2016 09:00:45 [DEBUG] scheduler.py[line:579] Looking for jobs to run
+Sat, 28 May 2016 09:00:45 [DEBUG] threadpool.py[line:69] Started worker thread
+Sat, 28 May 2016 09:00:45 [DEBUG] scheduler.py[line:588] Next wakeup is due at 2016-05-28 09:02:45.526735 (in 119.997649 seconds)
+Sat, 28 May 2016 09:00:45 [INFO] scheduler.py[line:509] Running job "sync (trigger: interval[0:02:00], next run at: 2016-05-28 09:02:45.526735)" (scheduled at 2016-05-28 09:00:45.526735)
+Sat, 28 May 2016 09:00:45 [DEBUG] utils.py[line:35] DataCapture.exe not exist
+Sat, 28 May 2016 09:00:45 [INFO] transfer.py[line:189] starting DataCapture.exe: D:\Program Files\iCounter无线客流量统计系统\DataCapture.exe
+Sat, 28 May 2016 09:00:45 [DEBUG] transfer.py[line:33] select ID, DeviceID, Date, FOut, FIn, FAll, FUpload, 'TST' as storeID from FluxDetails where FUpload=5
+Sat, 28 May 2016 09:00:46 [DEBUG] transfer.py[line:70] update FluxDetails set FUpload=5 where id in (1)
+Sat, 28 May 2016 09:00:46 [DEBUG] transfer.py[line:70] update FluxDetails set FUpload=1 where id in (1)
+Sat, 28 May 2016 09:00:46 [INFO] scheduler.py[line:527] Job "sync (trigger: interval[0:02:00], next run at: 2016-05-28 09:02:45.526735)" executed successfully
+Sat, 28 May 2016 09:00:47 [DEBUG] threadpool.py[line:94] Exiting worker thread
+Sat, 28 May 2016 09:02:45 [DEBUG] scheduler.py[line:579] Looking for jobs to run
+Sat, 28 May 2016 09:02:45 [DEBUG] threadpool.py[line:69] Started worker thread
+Sat, 28 May 2016 09:02:45 [DEBUG] scheduler.py[line:588] Next wakeup is due at 2016-05-28 09:04:45.526735 (in 119.996696 seconds)
+Sat, 28 May 2016 09:02:45 [INFO] scheduler.py[line:509] Running job "sync (trigger: interval[0:02:00], next run at: 2016-05-28 09:04:45.526735)" (scheduled at 2016-05-28 09:02:45.526735)
+Sat, 28 May 2016 09:02:45 [DEBUG] utils.py[line:35] DataCapture.exe not exist
+Sat, 28 May 2016 09:02:45 [INFO] transfer.py[line:189] starting DataCapture.exe: D:\Program Files\iCounter无线客流量统计系统\DataCapture.exe
+Sat, 28 May 2016 09:02:45 [DEBUG] transfer.py[line:33] select ID, DeviceID, Date, FOut, FIn, FAll, FUpload, 'TST' as storeID from FluxDetails where FUpload=5
+Sat, 28 May 2016 09:02:46 [INFO] transfer.py[line:90] no new data is found
+Sat, 28 May 2016 09:02:46 [ERROR] scheduler.py[line:520] Job "sync (trigger: interval[0:02:00], next run at: 2016-05-28 09:04:45.526735)" raised an exception
+Traceback (most recent call last):
+  File "C:\Python34\lib\site-packages\apscheduler\scheduler.py", line 512, in _run_job
+    retval = job.func(*job.args, **job.kwargs)
+  File "D:\Source\FluxStatisticScheduler\transfer.py", line 180, in sync
+    dest, host, port, username, password, 5)
+  File "D:\Source\FluxStatisticScheduler\transfer.py", line 114, in transferFluxDetailsByStatus
+    os.remove(csv)
+FileNotFoundError: [WinError 2] 系统找不到指定的文件。: 'd:/FluxDetails.TST.20160528090245.csv'
+Sat, 28 May 2016 09:02:47 [DEBUG] threadpool.py[line:94] Exiting worker thread
+Sat, 28 May 2016 09:04:34 [INFO] threadpool.py[line:52] Started thread pool with 0 core threads and 20 maximum threads
+Sat, 28 May 2016 09:04:34 [INFO] scheduler.py[line:287] Adding job tentatively -- it will be properly scheduled when the scheduler starts
+Sat, 28 May 2016 09:04:34 [INFO] scheduler.py[line:287] Adding job tentatively -- it will be properly scheduled when the scheduler starts
+Sat, 28 May 2016 09:04:34 [INFO] scheduler.py[line:262] Added job "sync (trigger: interval[0:02:00], next run at: 2016-05-28 09:06:34.763733)" to job store "default"
+Sat, 28 May 2016 09:04:34 [INFO] scheduler.py[line:262] Added job "transferFluxDetailsByStatus (trigger: cron[day_of_week='mon-sun', hour='9', minute='6'], next run at: 2016-05-28 09:06:00)" to job store "default"
+Sat, 28 May 2016 09:04:34 [INFO] scheduler.py[line:574] Scheduler started
+Sat, 28 May 2016 09:04:34 [DEBUG] scheduler.py[line:579] Looking for jobs to run
+Sat, 28 May 2016 09:04:34 [DEBUG] scheduler.py[line:588] Next wakeup is due at 2016-05-28 09:06:00 (in 85.233281 seconds)
+Sat, 28 May 2016 09:06:00 [DEBUG] scheduler.py[line:579] Looking for jobs to run
+Sat, 28 May 2016 09:06:00 [DEBUG] threadpool.py[line:69] Started worker thread
+Sat, 28 May 2016 09:06:00 [DEBUG] scheduler.py[line:588] Next wakeup is due at 2016-05-28 09:06:34.763733 (in 34.762210 seconds)
+Sat, 28 May 2016 09:06:00 [INFO] scheduler.py[line:509] Running job "transferFluxDetailsByStatus (trigger: cron[day_of_week='mon-sun', hour='9', minute='6'], next run at: 2016-05-29 09:06:00)" (scheduled at 2016-05-28 09:06:00)
+Sat, 28 May 2016 09:06:00 [DEBUG] transfer.py[line:33] select ID, DeviceID, Date, FOut, FIn, FAll, FUpload, 'TST' as storeID from FluxDetails where FUpload=0
+Sat, 28 May 2016 09:06:00 [DEBUG] transfer.py[line:70] update FluxDetails set FUpload=5 where id in (1)
+Sat, 28 May 2016 09:06:00 [DEBUG] transfer.py[line:70] update FluxDetails set FUpload=1 where id in (1)
+Sat, 28 May 2016 09:06:00 [INFO] scheduler.py[line:527] Job "transferFluxDetailsByStatus (trigger: cron[day_of_week='mon-sun', hour='9', minute='6'], next run at: 2016-05-29 09:06:00)" executed successfully
+Sat, 28 May 2016 09:06:01 [DEBUG] threadpool.py[line:94] Exiting worker thread
+Sat, 28 May 2016 09:06:34 [DEBUG] scheduler.py[line:579] Looking for jobs to run
+Sat, 28 May 2016 09:06:34 [DEBUG] threadpool.py[line:69] Started worker thread
+Sat, 28 May 2016 09:06:34 [DEBUG] scheduler.py[line:588] Next wakeup is due at 2016-05-28 09:08:34.763733 (in 119.996380 seconds)
+Sat, 28 May 2016 09:06:34 [INFO] scheduler.py[line:509] Running job "sync (trigger: interval[0:02:00], next run at: 2016-05-28 09:08:34.763733)" (scheduled at 2016-05-28 09:06:34.763733)
+Sat, 28 May 2016 09:06:35 [DEBUG] utils.py[line:35] DataCapture.exe not exist
+Sat, 28 May 2016 09:06:35 [INFO] transfer.py[line:189] starting DataCapture.exe: D:\Program Files\iCounter无线客流量统计系统\DataCapture.exe
+Sat, 28 May 2016 09:06:35 [DEBUG] transfer.py[line:33] select ID, DeviceID, Date, FOut, FIn, FAll, FUpload, 'TST' as storeID from FluxDetails where FUpload=5
+Sat, 28 May 2016 09:06:35 [INFO] transfer.py[line:90] no new data is found
+Sat, 28 May 2016 09:06:35 [ERROR] scheduler.py[line:520] Job "sync (trigger: interval[0:02:00], next run at: 2016-05-28 09:08:34.763733)" raised an exception
+Traceback (most recent call last):
+  File "C:\Python34\lib\site-packages\apscheduler\scheduler.py", line 512, in _run_job
+    retval = job.func(*job.args, **job.kwargs)
+  File "D:\Source\FluxStatisticScheduler\transfer.py", line 180, in sync
+    dest, host, port, username, password, 5)
+  File "D:\Source\FluxStatisticScheduler\transfer.py", line 114, in transferFluxDetailsByStatus
+    os.remove(csv)
+FileNotFoundError: [WinError 2] 系统找不到指定的文件。: 'd:/FluxDetails.TST.20160528090635.csv'
+Sat, 28 May 2016 09:06:36 [DEBUG] threadpool.py[line:94] Exiting worker thread
+Sat, 28 May 2016 09:08:34 [DEBUG] scheduler.py[line:579] Looking for jobs to run
+Sat, 28 May 2016 09:08:34 [DEBUG] threadpool.py[line:69] Started worker thread
+Sat, 28 May 2016 09:08:34 [DEBUG] scheduler.py[line:588] Next wakeup is due at 2016-05-28 09:10:34.763733 (in 119.997576 seconds)
+Sat, 28 May 2016 09:08:34 [INFO] scheduler.py[line:509] Running job "sync (trigger: interval[0:02:00], next run at: 2016-05-28 09:10:34.763733)" (scheduled at 2016-05-28 09:08:34.763733)
+Sat, 28 May 2016 09:08:34 [DEBUG] utils.py[line:35] DataCapture.exe not exist
+Sat, 28 May 2016 09:08:35 [INFO] transfer.py[line:189] starting DataCapture.exe: D:\Program Files\iCounter无线客流量统计系统\DataCapture.exe
+Sat, 28 May 2016 09:08:35 [DEBUG] transfer.py[line:33] select ID, DeviceID, Date, FOut, FIn, FAll, FUpload, 'TST' as storeID from FluxDetails where FUpload=5
+Sat, 28 May 2016 09:08:35 [INFO] transfer.py[line:90] no new data is found
+Sat, 28 May 2016 09:08:35 [ERROR] scheduler.py[line:520] Job "sync (trigger: interval[0:02:00], next run at: 2016-05-28 09:10:34.763733)" raised an exception
+Traceback (most recent call last):
+  File "C:\Python34\lib\site-packages\apscheduler\scheduler.py", line 512, in _run_job
+    retval = job.func(*job.args, **job.kwargs)
+  File "D:\Source\FluxStatisticScheduler\transfer.py", line 180, in sync
+    dest, host, port, username, password, 5)
+  File "D:\Source\FluxStatisticScheduler\transfer.py", line 114, in transferFluxDetailsByStatus
+    os.remove(csv)
+FileNotFoundError: [WinError 2] 系统找不到指定的文件。: 'd:/FluxDetails.TST.20160528090835.csv'
+Sat, 28 May 2016 09:08:36 [DEBUG] threadpool.py[line:94] Exiting worker thread
+Sat, 28 May 2016 09:10:34 [DEBUG] scheduler.py[line:579] Looking for jobs to run
+Sat, 28 May 2016 09:10:34 [DEBUG] threadpool.py[line:69] Started worker thread
+Sat, 28 May 2016 09:10:34 [DEBUG] scheduler.py[line:588] Next wakeup is due at 2016-05-28 09:12:34.763733 (in 119.998515 seconds)
+Sat, 28 May 2016 09:10:34 [INFO] scheduler.py[line:509] Running job "sync (trigger: interval[0:02:00], next run at: 2016-05-28 09:12:34.763733)" (scheduled at 2016-05-28 09:10:34.763733)
+Sat, 28 May 2016 09:10:35 [DEBUG] utils.py[line:35] DataCapture.exe not exist
+Sat, 28 May 2016 09:10:35 [INFO] transfer.py[line:189] starting DataCapture.exe: D:\Program Files\iCounter无线客流量统计系统\DataCapture.exe
+Sat, 28 May 2016 09:10:35 [DEBUG] transfer.py[line:33] select ID, DeviceID, Date, FOut, FIn, FAll, FUpload, 'TST' as storeID from FluxDetails where FUpload=5
+Sat, 28 May 2016 09:10:35 [INFO] transfer.py[line:90] no new data is found
+Sat, 28 May 2016 09:10:35 [ERROR] scheduler.py[line:520] Job "sync (trigger: interval[0:02:00], next run at: 2016-05-28 09:12:34.763733)" raised an exception
+Traceback (most recent call last):
+  File "C:\Python34\lib\site-packages\apscheduler\scheduler.py", line 512, in _run_job
+    retval = job.func(*job.args, **job.kwargs)
+  File "D:\Source\FluxStatisticScheduler\transfer.py", line 180, in sync
+    dest, host, port, username, password, 5)
+  File "D:\Source\FluxStatisticScheduler\transfer.py", line 114, in transferFluxDetailsByStatus
+FileNotFoundError: [WinError 2] 系统找不到指定的文件。: 'd:/FluxDetails.TST.20160528091035.csv'
+Sat, 28 May 2016 09:10:36 [DEBUG] threadpool.py[line:94] Exiting worker thread
+Sat, 28 May 2016 09:10:57 [INFO] threadpool.py[line:52] Started thread pool with 0 core threads and 20 maximum threads
+Sat, 28 May 2016 09:10:57 [INFO] scheduler.py[line:287] Adding job tentatively -- it will be properly scheduled when the scheduler starts
+Sat, 28 May 2016 09:10:57 [INFO] scheduler.py[line:287] Adding job tentatively -- it will be properly scheduled when the scheduler starts
+Sat, 28 May 2016 09:10:57 [INFO] scheduler.py[line:262] Added job "sync (trigger: interval[0:02:00], next run at: 2016-05-28 09:12:57.209095)" to job store "default"
+Sat, 28 May 2016 09:10:57 [INFO] scheduler.py[line:262] Added job "transferFluxDetailsByStatus (trigger: cron[day_of_week='mon-sun', hour='9', minute='6'], next run at: 2016-05-29 09:06:00)" to job store "default"
+Sat, 28 May 2016 09:10:57 [INFO] scheduler.py[line:574] Scheduler started
+Sat, 28 May 2016 09:10:57 [DEBUG] scheduler.py[line:579] Looking for jobs to run
+Sat, 28 May 2016 09:10:57 [DEBUG] scheduler.py[line:588] Next wakeup is due at 2016-05-28 09:12:57.209095 (in 119.994983 seconds)
+Sat, 28 May 2016 09:12:57 [DEBUG] scheduler.py[line:579] Looking for jobs to run
+Sat, 28 May 2016 09:12:57 [DEBUG] threadpool.py[line:69] Started worker thread
+Sat, 28 May 2016 09:12:57 [DEBUG] scheduler.py[line:588] Next wakeup is due at 2016-05-28 09:14:57.209095 (in 119.999917 seconds)
+Sat, 28 May 2016 09:12:57 [INFO] scheduler.py[line:509] Running job "sync (trigger: interval[0:02:00], next run at: 2016-05-28 09:14:57.209095)" (scheduled at 2016-05-28 09:12:57.209095)
+Sat, 28 May 2016 09:12:57 [DEBUG] utils.py[line:29] DataCapture.exe error : (-2147221020, '无效的语法', None, None)
+Sat, 28 May 2016 09:12:57 [INFO] transfer.py[line:189] starting DataCapture.exe: D:\Program Files\iCounter无线客流量统计系统\DataCapture.exe
+Sat, 28 May 2016 09:12:57 [DEBUG] transfer.py[line:33] select ID, DeviceID, Date, FOut, FIn, FAll, FUpload, 'TST' as storeID from FluxDetails where FUpload=5
+Sat, 28 May 2016 09:12:57 [INFO] transfer.py[line:90] no new data is found
+Sat, 28 May 2016 09:12:57 [INFO] scheduler.py[line:527] Job "sync (trigger: interval[0:02:00], next run at: 2016-05-28 09:14:57.209095)" executed successfully
+Sat, 28 May 2016 09:12:58 [DEBUG] threadpool.py[line:94] Exiting worker thread
+Sat, 28 May 2016 09:14:57 [DEBUG] scheduler.py[line:579] Looking for jobs to run
+Sat, 28 May 2016 09:14:57 [DEBUG] threadpool.py[line:69] Started worker thread
+Sat, 28 May 2016 09:14:57 [DEBUG] scheduler.py[line:588] Next wakeup is due at 2016-05-28 09:16:57.209095 (in 119.996804 seconds)
+Sat, 28 May 2016 09:14:57 [INFO] scheduler.py[line:509] Running job "sync (trigger: interval[0:02:00], next run at: 2016-05-28 09:16:57.209095)" (scheduled at 2016-05-28 09:14:57.209095)
+Sat, 28 May 2016 09:14:57 [DEBUG] utils.py[line:35] DataCapture.exe not exist
+Sat, 28 May 2016 09:14:57 [INFO] transfer.py[line:189] starting DataCapture.exe: D:\Program Files\iCounter无线客流量统计系统\DataCapture.exe
+Sat, 28 May 2016 09:14:57 [DEBUG] transfer.py[line:33] select ID, DeviceID, Date, FOut, FIn, FAll, FUpload, 'TST' as storeID from FluxDetails where FUpload=5
+Sat, 28 May 2016 09:14:57 [INFO] transfer.py[line:90] no new data is found
+Sat, 28 May 2016 09:14:57 [INFO] scheduler.py[line:527] Job "sync (trigger: interval[0:02:00], next run at: 2016-05-28 09:16:57.209095)" executed successfully
+Sat, 28 May 2016 09:14:58 [DEBUG] threadpool.py[line:94] Exiting worker thread
+Sat, 28 May 2016 09:15:32 [INFO] threadpool.py[line:52] Started thread pool with 0 core threads and 20 maximum threads
+Sat, 28 May 2016 09:15:32 [INFO] scheduler.py[line:287] Adding job tentatively -- it will be properly scheduled when the scheduler starts
+Sat, 28 May 2016 09:15:32 [INFO] scheduler.py[line:287] Adding job tentatively -- it will be properly scheduled when the scheduler starts
+Sat, 28 May 2016 09:15:32 [INFO] scheduler.py[line:262] Added job "sync (trigger: interval[0:02:00], next run at: 2016-05-28 09:17:32.174293)" to job store "default"
+Sat, 28 May 2016 09:15:32 [INFO] scheduler.py[line:262] Added job "transferFluxDetailsByStatus (trigger: cron[day_of_week='mon-sun', hour='9', minute='6'], next run at: 2016-05-29 09:06:00)" to job store "default"
+Sat, 28 May 2016 09:15:32 [INFO] scheduler.py[line:574] Scheduler started
+Sat, 28 May 2016 09:15:32 [DEBUG] scheduler.py[line:579] Looking for jobs to run
+Sat, 28 May 2016 09:15:32 [DEBUG] scheduler.py[line:588] Next wakeup is due at 2016-05-28 09:17:32.174293 (in 119.996014 seconds)
+Sat, 28 May 2016 09:16:57 [DEBUG] scheduler.py[line:579] Looking for jobs to run
+Sat, 28 May 2016 09:16:57 [DEBUG] threadpool.py[line:69] Started worker thread
+Sat, 28 May 2016 09:16:57 [DEBUG] scheduler.py[line:588] Next wakeup is due at 2016-05-28 09:18:57.209095 (in 119.997406 seconds)
+Sat, 28 May 2016 09:16:57 [INFO] scheduler.py[line:509] Running job "sync (trigger: interval[0:02:00], next run at: 2016-05-28 09:18:57.209095)" (scheduled at 2016-05-28 09:16:57.209095)
+Sat, 28 May 2016 09:16:57 [DEBUG] utils.py[line:35] DataCapture.exe not exist
+Sat, 28 May 2016 09:16:57 [INFO] transfer.py[line:189] starting DataCapture.exe: D:\Program Files\iCounter无线客流量统计系统\DataCapture.exe
+Sat, 28 May 2016 09:16:57 [DEBUG] transfer.py[line:33] select ID, DeviceID, Date, FOut, FIn, FAll, FUpload, 'TST' as storeID from FluxDetails where FUpload=5
+Sat, 28 May 2016 09:16:57 [INFO] transfer.py[line:90] no new data is found
+Sat, 28 May 2016 09:16:57 [INFO] scheduler.py[line:527] Job "sync (trigger: interval[0:02:00], next run at: 2016-05-28 09:18:57.209095)" executed successfully
+Sat, 28 May 2016 09:16:58 [DEBUG] threadpool.py[line:94] Exiting worker thread
+Sat, 28 May 2016 09:17:32 [DEBUG] scheduler.py[line:579] Looking for jobs to run
+Sat, 28 May 2016 09:17:32 [DEBUG] threadpool.py[line:69] Started worker thread
+Sat, 28 May 2016 09:17:32 [DEBUG] scheduler.py[line:588] Next wakeup is due at 2016-05-28 09:19:32.174293 (in 119.986636 seconds)
+Sat, 28 May 2016 09:17:32 [INFO] scheduler.py[line:509] Running job "sync (trigger: interval[0:02:00], next run at: 2016-05-28 09:19:32.174293)" (scheduled at 2016-05-28 09:17:32.174293)
+Sat, 28 May 2016 09:17:32 [DEBUG] utils.py[line:29] DataCapture.exe error : (-2147221020, '无效的语法', None, None)
+Sat, 28 May 2016 09:17:32 [INFO] transfer.py[line:190] starting DataCapture.exe: D:\Program Files\iCounter无线客流量统计系统\DataCapture.exe
+Sat, 28 May 2016 09:17:32 [DEBUG] transfer.py[line:193] [WinError 2] 系统找不到指定的文件。
+Sat, 28 May 2016 09:17:32 [DEBUG] transfer.py[line:34] select ID, DeviceID, Date, FOut, FIn, FAll, FUpload, 'TST' as storeID from FluxDetails where FUpload=5
+Sat, 28 May 2016 09:17:32 [INFO] transfer.py[line:91] no new data is found
+Sat, 28 May 2016 09:17:32 [INFO] scheduler.py[line:527] Job "sync (trigger: interval[0:02:00], next run at: 2016-05-28 09:19:32.174293)" executed successfully
+Sat, 28 May 2016 09:17:33 [DEBUG] threadpool.py[line:94] Exiting worker thread
+Sat, 28 May 2016 09:18:57 [DEBUG] scheduler.py[line:579] Looking for jobs to run
+Sat, 28 May 2016 09:18:57 [DEBUG] threadpool.py[line:69] Started worker thread
+Sat, 28 May 2016 09:18:57 [DEBUG] scheduler.py[line:588] Next wakeup is due at 2016-05-28 09:20:57.209095 (in 119.997383 seconds)
+Sat, 28 May 2016 09:18:57 [INFO] scheduler.py[line:509] Running job "sync (trigger: interval[0:02:00], next run at: 2016-05-28 09:20:57.209095)" (scheduled at 2016-05-28 09:18:57.209095)
+Sat, 28 May 2016 09:18:57 [DEBUG] utils.py[line:35] DataCapture.exe not exist
+Sat, 28 May 2016 09:18:57 [INFO] transfer.py[line:189] starting DataCapture.exe: D:\Program Files\iCounter无线客流量统计系统\DataCapture.exe
+Sat, 28 May 2016 09:18:57 [DEBUG] transfer.py[line:33] select ID, DeviceID, Date, FOut, FIn, FAll, FUpload, 'TST' as storeID from FluxDetails where FUpload=5
+Sat, 28 May 2016 09:18:57 [INFO] transfer.py[line:90] no new data is found
+Sat, 28 May 2016 09:18:57 [INFO] scheduler.py[line:527] Job "sync (trigger: interval[0:02:00], next run at: 2016-05-28 09:20:57.209095)" executed successfully
+Sat, 28 May 2016 09:18:58 [DEBUG] threadpool.py[line:94] Exiting worker thread
+Sat, 28 May 2016 09:19:32 [DEBUG] scheduler.py[line:579] Looking for jobs to run
+Sat, 28 May 2016 09:19:32 [DEBUG] threadpool.py[line:69] Started worker thread
+Sat, 28 May 2016 09:19:32 [DEBUG] scheduler.py[line:588] Next wakeup is due at 2016-05-28 09:21:32.174293 (in 119.996115 seconds)
+Sat, 28 May 2016 09:19:32 [INFO] scheduler.py[line:509] Running job "sync (trigger: interval[0:02:00], next run at: 2016-05-28 09:21:32.174293)" (scheduled at 2016-05-28 09:19:32.174293)
+Sat, 28 May 2016 09:19:32 [DEBUG] utils.py[line:35] DataCapture.exe not exist
+Sat, 28 May 2016 09:19:32 [INFO] transfer.py[line:190] starting DataCapture.exe: D:\Program Files\iCounter无线客流量统计系统\DataCapture.exe
+Sat, 28 May 2016 09:19:32 [DEBUG] transfer.py[line:193] [WinError 2] 系统找不到指定的文件。
+Sat, 28 May 2016 09:19:32 [DEBUG] transfer.py[line:34] select ID, DeviceID, Date, FOut, FIn, FAll, FUpload, 'TST' as storeID from FluxDetails where FUpload=5
+Sat, 28 May 2016 09:19:32 [INFO] transfer.py[line:91] no new data is found
+Sat, 28 May 2016 09:19:32 [INFO] scheduler.py[line:527] Job "sync (trigger: interval[0:02:00], next run at: 2016-05-28 09:21:32.174293)" executed successfully
+Sat, 28 May 2016 09:19:33 [DEBUG] threadpool.py[line:94] Exiting worker thread
+Sat, 28 May 2016 09:20:57 [DEBUG] scheduler.py[line:579] Looking for jobs to run
+Sat, 28 May 2016 09:20:57 [DEBUG] threadpool.py[line:69] Started worker thread
+Sat, 28 May 2016 09:20:57 [DEBUG] scheduler.py[line:588] Next wakeup is due at 2016-05-28 09:22:57.209095 (in 119.996785 seconds)
+Sat, 28 May 2016 09:20:57 [INFO] scheduler.py[line:509] Running job "sync (trigger: interval[0:02:00], next run at: 2016-05-28 09:22:57.209095)" (scheduled at 2016-05-28 09:20:57.209095)
+Sat, 28 May 2016 09:20:57 [DEBUG] utils.py[line:35] DataCapture.exe not exist
+Sat, 28 May 2016 09:20:57 [INFO] transfer.py[line:189] starting DataCapture.exe: D:\Program Files\iCounter无线客流量统计系统\DataCapture.exe
+Sat, 28 May 2016 09:20:57 [DEBUG] transfer.py[line:33] select ID, DeviceID, Date, FOut, FIn, FAll, FUpload, 'TST' as storeID from FluxDetails where FUpload=5
+Sat, 28 May 2016 09:20:57 [INFO] transfer.py[line:90] no new data is found
+Sat, 28 May 2016 09:20:57 [INFO] scheduler.py[line:527] Job "sync (trigger: interval[0:02:00], next run at: 2016-05-28 09:22:57.209095)" executed successfully
+Sat, 28 May 2016 09:20:58 [DEBUG] threadpool.py[line:94] Exiting worker thread
+Sat, 28 May 2016 09:33:38 [INFO] threadpool.py[line:52] Started thread pool with 0 core threads and 20 maximum threads
+Sat, 28 May 2016 09:33:38 [INFO] scheduler.py[line:287] Adding job tentatively -- it will be properly scheduled when the scheduler starts
+Sat, 28 May 2016 09:33:38 [INFO] scheduler.py[line:287] Adding job tentatively -- it will be properly scheduled when the scheduler starts
+Sat, 28 May 2016 09:33:38 [INFO] scheduler.py[line:262] Added job "sync (trigger: interval[0:01:00], next run at: 2016-05-28 09:34:38.164770)" to job store "default"
+Sat, 28 May 2016 09:33:38 [INFO] scheduler.py[line:262] Added job "transferFluxDetailsByStatus (trigger: cron[day_of_week='mon-sun', hour='21', minute='59'], next run at: 2016-05-28 21:59:00)" to job store "default"
+Sat, 28 May 2016 09:33:38 [INFO] scheduler.py[line:574] Scheduler started
+Sat, 28 May 2016 09:33:38 [DEBUG] scheduler.py[line:579] Looking for jobs to run
+Sat, 28 May 2016 09:33:38 [DEBUG] scheduler.py[line:588] Next wakeup is due at 2016-05-28 09:34:38.164770 (in 59.996999 seconds)
+Sat, 28 May 2016 09:34:38 [DEBUG] scheduler.py[line:579] Looking for jobs to run
+Sat, 28 May 2016 09:34:38 [DEBUG] threadpool.py[line:69] Started worker thread
+Sat, 28 May 2016 09:34:38 [DEBUG] scheduler.py[line:588] Next wakeup is due at 2016-05-28 09:35:38.164770 (in 59.999938 seconds)
+Sat, 28 May 2016 09:34:38 [INFO] scheduler.py[line:509] Running job "sync (trigger: interval[0:01:00], next run at: 2016-05-28 09:35:38.164770)" (scheduled at 2016-05-28 09:34:38.164770)
+Sat, 28 May 2016 09:34:38 [DEBUG] utils.py[line:29] DataCapture.exe error : (-2147221020, '无效的语法', None, None)
+Sat, 28 May 2016 09:34:38 [INFO] transfer.py[line:190] starting DataCapture.exe: C:\Program Files\Microsoft Office\Office16\WINWORD.EXE
+Sat, 28 May 2016 09:34:38 [DEBUG] transfer.py[line:34] select ID, DeviceID, Date, FOut, FIn, FAll, FUpload, 'TST' as storeID from FluxDetails where FUpload=5
+Sat, 28 May 2016 09:34:38 [INFO] transfer.py[line:91] no new data is found
+Sat, 28 May 2016 09:34:38 [INFO] scheduler.py[line:527] Job "sync (trigger: interval[0:01:00], next run at: 2016-05-28 09:35:38.164770)" executed successfully
+Sat, 28 May 2016 09:34:39 [DEBUG] threadpool.py[line:94] Exiting worker thread
+Sat, 28 May 2016 09:35:38 [DEBUG] scheduler.py[line:579] Looking for jobs to run
+Sat, 28 May 2016 09:35:38 [DEBUG] threadpool.py[line:69] Started worker thread
+Sat, 28 May 2016 09:35:38 [DEBUG] scheduler.py[line:588] Next wakeup is due at 2016-05-28 09:36:38.164770 (in 59.997247 seconds)
+Sat, 28 May 2016 09:35:38 [INFO] scheduler.py[line:509] Running job "sync (trigger: interval[0:01:00], next run at: 2016-05-28 09:36:38.164770)" (scheduled at 2016-05-28 09:35:38.164770)
+Sat, 28 May 2016 09:35:38 [DEBUG] utils.py[line:35] DataCapture.exe not exist
+Sat, 28 May 2016 09:35:38 [INFO] transfer.py[line:190] starting DataCapture.exe: C:\Program Files\Microsoft Office\Office16\WINWORD.EXE
+Sat, 28 May 2016 09:35:38 [DEBUG] transfer.py[line:34] select ID, DeviceID, Date, FOut, FIn, FAll, FUpload, 'TST' as storeID from FluxDetails where FUpload=5
+Sat, 28 May 2016 09:35:38 [INFO] transfer.py[line:91] no new data is found
+Sat, 28 May 2016 09:35:38 [INFO] scheduler.py[line:527] Job "sync (trigger: interval[0:01:00], next run at: 2016-05-28 09:36:38.164770)" executed successfully
+Sat, 28 May 2016 09:35:39 [DEBUG] threadpool.py[line:94] Exiting worker thread
+Mon, 30 May 2016 13:15:35 [INFO] threadpool.py[line:52] Started thread pool with 0 core threads and 20 maximum threads
+Mon, 30 May 2016 13:15:35 [INFO] scheduler.py[line:287] Adding job tentatively -- it will be properly scheduled when the scheduler starts
+Mon, 30 May 2016 13:15:35 [INFO] scheduler.py[line:287] Adding job tentatively -- it will be properly scheduled when the scheduler starts
+Mon, 30 May 2016 13:15:35 [INFO] scheduler.py[line:262] Added job "sync (trigger: interval[0:20:00], next run at: 2016-05-30 13:35:35.484961)" to job store "default"
+Mon, 30 May 2016 13:15:35 [INFO] scheduler.py[line:262] Added job "transferFluxDetailsByStatus (trigger: cron[day_of_week='mon-sun', hour='21', minute='59'], next run at: 2016-05-30 21:59:00)" to job store "default"
+Mon, 30 May 2016 13:15:35 [INFO] scheduler.py[line:574] Scheduler started
+Mon, 30 May 2016 13:15:35 [DEBUG] scheduler.py[line:579] Looking for jobs to run
+Mon, 30 May 2016 13:15:35 [DEBUG] scheduler.py[line:588] Next wakeup is due at 2016-05-30 13:35:35.484961 (in 1199.996012 seconds)
+Mon, 30 May 2016 13:15:38 [DEBUG] transfer.py[line:131] select ID, DeviceID, Date, FOut, FIn, FAll, FUpload, 'TST' as storeID from FluxDetails where Date < cdate('2016-05-30 00:00:00') and FUpload=0
+Mon, 30 May 2016 13:15:38 [INFO] transfer.py[line:151] no new data is found
+Mon, 30 May 2016 13:16:07 [INFO] threadpool.py[line:111] Shutting down thread pool
